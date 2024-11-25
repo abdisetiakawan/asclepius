@@ -1,0 +1,15 @@
+{
+  "name": "Asclepius",
+  "version": "1.0.0",
+  "description": "Asclepius adalah sistem pemeriksaan kulit secara otomatis",
+  "scripts": {
+    "start": "http-server .",
+    "deploy": "gcloud app deploy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
